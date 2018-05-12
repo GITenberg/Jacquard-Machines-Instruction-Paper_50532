@@ -1,10 +1,16 @@
 _repo: Jacquard-Machines-Instruction-Paper_50532
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50532-h/images/cover.jpg
 creator:
   author:
     agent_name: Nelson, H. William
     gutenberg_agent_id: '45961'
     url: http://www.gutenberg.org/2009/agents/45961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50532#Jacquard-Machines-Instruction-Paper
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
